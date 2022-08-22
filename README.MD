@@ -1,6 +1,6 @@
-**HiHello coding challenge!**
+**Calculator coding challenge!**
 
-Here I'll document my steps taken to replicating the calculator app with basic add, subtract, multiply, and divide functionality.
+Here I'll document my steps taken to replicating the calculator app with add, subtract, multiply, and divide functionality.
 
 _Steps:_
 
